@@ -1,1 +1,1 @@
-# Hotel-Management
+# Hospital-Management
